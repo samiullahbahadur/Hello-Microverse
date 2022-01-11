@@ -6,7 +6,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-My first repo
+My first Project
 
 ## Built With
 
@@ -17,9 +17,7 @@ My first repo
 
 [Live Demo Link](https://livedemo.com)
 
-## Authors
-
-👤 **Author1**
+👤 **Samiullah Bahadur**
 
 - GitHub: [@githubhandle](https://github.com/samiullahbahadur)
 - Twitter: [@twitterhandle](https://twitter.com/@Samiull88496331)
