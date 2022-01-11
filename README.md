@@ -2,20 +2,16 @@
 
 # Hello Microverse
 
-> One paragraph statement about the project.
+> My first repository at Microverse
 
 ![screenshot](./app_screenshot.png)
 
-My first Project
+My first Project at Microverse
 
 ## Built With
 
 - HTML
 - CSS
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 👤 **Samiullah Bahadur**
 
