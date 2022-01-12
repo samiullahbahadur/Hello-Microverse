@@ -4,10 +4,6 @@
 
 > My first repository at Microverse
 
-![screenshot](./app_screenshot.png)
-
-My first Project at Microverse
-
 ## Built With
 
 - HTML
@@ -15,9 +11,9 @@ My first Project at Microverse
 
 👤 **Samiullah Bahadur**
 
-- GitHub: [@githubhandle](https://github.com/samiullahbahadur)
-- Twitter: [@twitterhandle](https://twitter.com/@Samiull88496331)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/samiullah-bahadur-a1b053149/)
+- GitHub: [@samiullahbahadur](https://github.com/samiullahbahadur)
+- Twitter: [@samiullahbahadur](https://twitter.com/@Samiull88496331)
+- LinkedIn: [samiullahbahadur](https://linkedin.com/in/samiullah-bahadur-a1b053149/)
 
 ## Show your support
 
